@@ -9,7 +9,7 @@
 </p>
 <h3 align="center">Connect with Me</h3>
 <p align="center">
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://github.com/chiragpandey14112006-gif/nexus_Saksham" target="_blank">
     <img src="https://img.shields.io/badge/NEXUS%20Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="NEXUS Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/saksham-pandey-766a39380/" target="_blank">
