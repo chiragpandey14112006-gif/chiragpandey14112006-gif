@@ -27,12 +27,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,threejs,tailwind,firebase,opencv,git,github,vscode&theme=dark&perline=7" alt="Tech Stack" />
-  </a>
-  ### Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,react,threejs,tailwind,firebase,opencv,git&perline=9" />
-  </a>
+  
 </p>
 
 ### GitHub Stats
