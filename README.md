@@ -7,6 +7,28 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=CS+%26+AI+Engineer;Building+3D+Web+Engines+%26+ML+Systems;AI+Trainer+%7C+Creator+of+NEXUS" alt="Typing SVG" />
 </p>
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/NEXUS%20Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="NEXUS Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/sxsm_pandey" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<h3 align="center">Tech Stack</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,threejs,tailwind,firebase,opencv,git,github,vscode&theme=dark&perline=7" alt="Tech Stack" />
+  </a>
+</p>
 <!--
 **chiragpandey14112006-gif/chiragpandey14112006-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
