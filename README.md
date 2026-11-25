@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Saksham%20Pandey&fontSize=55&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=CS+%26+AI+Engineer;Building+3D+Web+Engines+%26+ML+Systems;AI+Trainer+%7C+Creator+of+NEXUS" alt="Typing SVG" />
+</p>
 <!--
 **chiragpandey14112006-gif/chiragpandey14112006-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
