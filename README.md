@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Saksham%20Pandey&fontSize=55&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
