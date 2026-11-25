@@ -28,6 +28,17 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,threejs,tailwind,firebase,opencv,git,github,vscode&theme=dark&perline=7" alt="Tech Stack" />
   </a>
+  ### Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,js,react,threejs,tailwind,firebase,opencv,git&perline=9" />
+  </a>
+</p>
+
+### GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chiragpandey14112006-gif&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragpandey14112006-gif&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <!--
 **chiragpandey14112006-gif/chiragpandey14112006-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
